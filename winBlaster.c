@@ -157,7 +157,7 @@ void main
 	    }
 	}
     
-    close (sock);
+    closesocket (sock);
     
     free (buffer);
     printf ("blaster exit.\n");
