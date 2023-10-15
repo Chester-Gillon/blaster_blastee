@@ -1,2 +1,11 @@
 *.o
 *.exe
+blaster
+blastee
+Debug/
+Release/
+*.user
+*.sdf
+*.opensdf
+*.suo
+ipch/
